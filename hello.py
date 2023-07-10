@@ -1,2 +1,2 @@
-#hello.py
-print('hello Git')
+import turtle
+turtle.forward(15)
